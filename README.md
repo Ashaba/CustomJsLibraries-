@@ -4,6 +4,6 @@ A collection of javascript libraries to help in the handy work for web applicati
 # Requirements
 1. Web Browser
 
-#Installation
+# Installation
 1. Clone the repository ```https://github.com/Ashaba/CustomJsLibraries-.git```
 2. 
